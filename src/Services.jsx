@@ -46,7 +46,7 @@ function Services() {
           <div className="md:w-2/4">
             <h2 className="text-[40px] mb-4">Estate & Probate Law</h2>
             <p className="text-gray-600 mb-6 text-[16px]">
-              At HagEstad Law Group, PLLC, we understand that your legacy is
+              At Madhan law, we understand that your legacy is
               important to you. That's why we offer comprehensive estate and
               probate law services to ensure that your assets and loved ones are
               protected. Our experienced attorneys will guide you through every
@@ -58,7 +58,7 @@ function Services() {
 
             <div className="flex flex-col md:flex-row gap-8">
               <div className="md:w-1/2 text-[16px]">
-                <h3 className="text-[24px] mb-4">in Montana</h3>
+                <h3 className="text-[24px] mb-4">in India</h3>
                 <ul className="space-y-2">
                   <li className="flex items-center">
                     Estate Planning
@@ -110,11 +110,11 @@ function Services() {
                   href="#"
                   className="text-[#627a93] hover:underline mt-4 inline-block"
                 >
-                  All Montana Estate & Probate Law Services
+                  All India Estate & Probate Law Services
                 </a>
               </div>
               <div className="md:w-1/2 text-[16px]">
-                <h3 className="text-[24px] mb-4">in Arizona</h3>
+                <h3 className="text-[24px] mb-4">in US</h3>
                 <ul className="space-y-2">
                   <li>Estate Planning</li>
                   <li>Probate & Estate Administration</li>
@@ -124,7 +124,7 @@ function Services() {
                   href="#"
                   className="text-[#627a93] hover:underline mt-4 inline-block"
                 >
-                  All Arizona Estate & Probate Law Services
+                  All US Estate & Probate Law Services
                 </a>
               </div>
             </div>

@@ -30,7 +30,7 @@ function Help() {
                   <Phone className="h-5 w-5" />
                 </div>
                 <div>
-                  <div className="text-sm">Montana</div>
+                  <div className="text-sm">Chennai</div>
                   <a
                     href="tel:+14062966435"
                     className="text-[15px] font-semibold hover:underline"
@@ -44,7 +44,7 @@ function Help() {
                   <Phone className="h-5 w-5" />
                 </div>
                 <div>
-                  <div className="text-sm">Arizona</div>
+                  <div className="text-sm">Delhi</div>
                   <a
                     href="tel:+16232942934"
                     className="text-[15px] font-semibold hover:underline"

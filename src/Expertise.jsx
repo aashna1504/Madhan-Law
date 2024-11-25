@@ -45,11 +45,11 @@ function Expertise() {
               </span>
               <br />
               <span class="text-gray-800">
-                Meet The HagEstad Law Group, PLLC Attorneys
+                Meet The Madhan law Attorneys
               </span>
             </h2>
             <p class="text-gray-600 mb-4 text-[18px]">
-              At HagEstad Law Group, PLLC, our skilled attorneys are dedicated
+              At Madhan law, our skilled attorneys are dedicated
               to delivering exceptional legal services, utilizing the latest
               technology to offer efficient and cost-effective solutions
               tailored to your unique needs.
@@ -83,14 +83,14 @@ function Expertise() {
                 </div>
                 <div class="">
                   <h3 class="text-[48px] text-[#434d48] leading-[4rem]">
-                    500+
+                    100+
                   </h3>
                   <p class="text-[12px] text-[#434d48] uppercase font-bold">
                     CLIENTS SERVED
                   </p>
                 </div>
                 <div class="">
-                  <h3 class="text-[48px] text-[#434d48] leading-[4rem]">30+</h3>
+                  <h3 class="text-[48px] text-[#434d48] leading-[4rem]">10+</h3>
                   <p class="text-[12px] text-[#434d48] uppercase font-bold">
                     YEARS OF COMBINED <br />
                     EXPERIENCE

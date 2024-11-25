@@ -15,7 +15,7 @@ const caseCategories = [
 const caseResults = [
   {
     category: "Business",
-    title: "Successful Formation of Nonprofit and Business Phoenix, Arizona",
+    title: "Successful Formation of Nonprofit and Business Phoenix, Delhi",
     description:
       "Our client approached us to form a nonprofit (501c3) to run their charitable initiative. They were unsure of whether to simultaneously also form a business to support the nonprofit. We walked them through a cohesive strategy that will enable both entities to prosper, filed the paperwork on their behalf, and guided them toward launching operations. Both entities continue to thrive.",
   },

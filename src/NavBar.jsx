@@ -75,24 +75,24 @@ export default function Component() {
 
             {/* Contact Information and CTA */}
             <div className="hidden lg:flex items-center space-x-4">
-              {/* Montana Contact */}
+              {/* Chennai Contact */}
               <div className="flex items-center gap-4">
                 <div className="bg-[#627a93] rounded-full p-2">
                   <Phone className="h-4 w-4" />
                 </div>
                 <div className="flex flex-col">
-                  <span className="text-[12px]">Montana</span>
+                  <span className="text-[12px]">Chennai</span>
                   <span className="font-bold text-[15px]">(406) 296-6666</span>
                 </div>
               </div>
 
-              {/* Arizona Contact */}
+              {/* Delhi Contact */}
               <div className="flex items-center gap-4">
                 <div className="bg-[#627a93] rounded-full p-2">
                   <Phone className="h-4 w-4" />
                 </div>
                 <div className="flex flex-col">
-                  <span className="text-sm">Arizona</span>
+                  <span className="text-sm">Delhi</span>
                   <span className="font-bold text-[15px]">(406) 296-6666</span>
                 </div>
               </div>
@@ -137,7 +137,7 @@ export default function Component() {
                   <Phone className="h-4 w-4" />
                 </div>
                 <div>
-                  <span className="text-sm font-semibold">Montana</span>
+                  <span className="text-sm font-semibold">Chennai</span>
                   <span className="text-sm ml-2">(406) 296-6666</span>
                 </div>
               </div>
@@ -147,7 +147,7 @@ export default function Component() {
                   <Phone className="h-4 w-4" />
                 </div>
                 <div>
-                  <span className="text-sm font-semibold">Arizona</span>
+                  <span className="text-sm font-semibold">Delhi</span>
                   <span className="text-sm ml-2">(406) 296-6666</span>
                 </div>
               </div>

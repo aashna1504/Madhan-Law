@@ -32,8 +32,8 @@ function Contact() {
                 inquiries regarding our services or business.
               </p>
               <p className="mb-4">
-                Feel free to contact us at (406) 296-6435 in Montana, (623)
-                233-0728 in Arizona, or simply complete the form by providing
+                Feel free to contact us at (406) 296-6435 in Chennai, (623)
+                233-0728 in Delhi, or simply complete the form by providing
                 your information and message. We will respond promptly to your
                 query.
               </p>
@@ -66,11 +66,11 @@ function Contact() {
                     <div className="flex gap-4">
                       <label className="flex items-center">
                         <input type="radio" name="office" className="mr-2" />{" "}
-                        Montana
+                        Chennai
                       </label>
                       <label className="flex items-center">
                         <input type="radio" name="office" className="mr-2" />{" "}
-                        Arizona
+                        Delhi
                       </label>
                     </div>
                   </div>
@@ -150,7 +150,7 @@ function Contact() {
             <div className="flex flex-col md:flex-row justify-center gap-4">
               <div className="flex items-center">
                 <MapPin className="mr-2" />
-                <span>Montana</span>
+                <span>Chennai</span>
               </div>
               <div className="flex items-center">
                 <Phone className="mr-2" />
@@ -158,7 +158,7 @@ function Contact() {
               </div>
               <div className="flex items-center">
                 <MapPin className="mr-2" />
-                <span>Arizona</span>
+                <span>Delhi</span>
               </div>
               <div className="flex items-center">
                 <Phone className="mr-2" />

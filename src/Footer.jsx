@@ -7,7 +7,7 @@ function Footer() {
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div class="grid grid-cols-1 md:grid-cols-4 gap-[2rem] text-[16px]">
             <div class="col-span-1">
-              {/* <img src="/placeholder.svg?height=50&width=100" alt="HLG HAGESTAD LAW GROUP, PLLC" class="mb-4"> */}
+              {/* <img src="/placeholder.svg?height=50&width=100" alt="HLG Madhan law" class="mb-4"> */}
               <nav class="space-y-2">
                 <a href="#" class="block hover:text-blue-600">
                   Blog
@@ -37,52 +37,37 @@ function Footer() {
               <h2 class="text-[32px] mb-4">Featured Legal Services</h2>
               <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <div>
-                  <h3 class="font-semibold mb-2">In Montana:</h3>
+                  <h3 class="font-semibold mb-2">In Chennai:</h3>
                   <ul class="space-y-2">
-                    <li>Trusts & Estates Attorney in Helena, MT</li>
-                    <li>Trusts & Estates Attorney in Butte, MT</li>
-                    <li>Trusts & Estates Attorney in Kalispell, MT</li>
-                    <li>Trusts & Estates Attorney in Missoula, MT</li>
-                    <li>Trusts & Estates Attorney in Great Falls, MT</li>
-                    <li>Trusts & Estates Attorney in Hamilton, MT</li>
-                    <li>Trusts & Estates Attorney in Bozeman, MT</li>
-                    <li>Trusts & Estates Attorney in Billings, MT</li>
-                    <li>Seasoned Trusts & Estates Attorney in Polson, MT</li>
-                    <li>Trusts & Estates Attorney in Bigfork, MT</li>
-                    <li>Trusts & Estates Attorney in Whitefish, MT</li>
+                    <li>Trusts & Estates Attorney in Chennai,IN</li>
+                    <li>Trusts & Estates Attorney in Delhi, IN</li>
+                    <li>Trusts & Estates Attorney in Hydrabad, IN</li>
                   </ul>
                 </div>
                 <div>
-                  <h3 class="font-semibold mb-2">In Arizona:</h3>
+                  <h3 class="font-semibold mb-2">In Delhi:</h3>
                   <ul class="space-y-2">
                     <li>Phoenix Estate & Probate Lawyers</li>
                     <li>Phoenix Business Lawyers</li>
                     <li>Phoenix Real Estate Lawyers</li>
-                    <li>Buckeye Estate Planning Lawyers</li>
-                    <li>Buckeye Probate & Estate Lawyers</li>
-                    <li>Buckeye Real Estate Lawyers</li>
-                    <li>Surprise Estate Planning Attorneys</li>
-                    <li>Surprise Probate Lawyers</li>
-                    <li>Surprise Wills & Trust Attorneys</li>
-                    <li>Sun City Estate Lawyers</li>
                   </ul>
                 </div>
               </div>
             </div>
             <div class="col-span-1">
-              <h3 class="font-semibold mb-2">Montana Office:</h3>
+              <h3 class="font-semibold mb-2">Chennai Office:</h3>
               <p>2425 West Central Avenue, Suite 200</p>
               <p>Missoula, MT 59801</p>
               <p>(406) 804-6855</p>
 
-              <h3 class="font-semibold mt-4 mb-2">Arizona Office:</h3>
+              <h3 class="font-semibold mt-4 mb-2">Delhi Office:</h3>
               <p>15331 W. Bell Rd, Ste 322</p>
               <p>Surprise, AZ 85374</p>
               <p>(623) 244-4587</p>
             </div>
           </div>
           <div class="mt-8 pt-8 border-t border-gray-200 flex flex-col md:flex-row justify-between items-center">
-            <p class="text-sm">&copy; 2024 HagEstad Law Group, PLLC.</p>
+            <p class="text-sm">&copy; 2024 Madhan law.</p>
             <div class="mt-4 md:mt-0">
               <a href="#" class="text-sm hover:text-blue-600 mr-4">
                 Legal Disclaimer

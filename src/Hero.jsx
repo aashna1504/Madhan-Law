@@ -36,7 +36,7 @@ function Hero() {
                   <Phone className="h-4 w-4" />
                 </div>
                 <div className="flex flex-col ">
-                  <span className="text-[12px]">Montana</span>
+                  <span className="text-[12px]">Chennai</span>
                   <span className="font-bold text-[16px]">(406) 296-6666</span>
                 </div>
               </div>
@@ -45,7 +45,7 @@ function Hero() {
                   <Phone className="h-4 w-4" />
                 </div>
                 <div className="flex flex-col ">
-                  <span className="text-sm">Arizona</span>
+                  <span className="text-sm">Delhi</span>
                   <span className="font-bold text-[16px]">(406) 296-6666</span>
                 </div>
               </div>
@@ -61,9 +61,9 @@ function Hero() {
                   Protecting
                   <span className="  font-[Playfair]">Your Legal</span>
                 </p>{" "}
-                Interests <span className="font-normal">in Montana</span>
+                Interests <span className="font-normal">in India</span>
                 <br />
-                <span className="font-normal">& Arizona</span>
+                <span className="font-normal">& Usa</span>
               </h1>
               <p className="mb-6 text-white text-[20px] mt-3">
                 Whether you're a business owner seeking legal advice, a family
@@ -102,19 +102,19 @@ function Hero() {
               />
               <div className=" absolute bottom-0 left-0 right-0 bg-black bg-opacity-75 text-white lg:px-10 px-4 py-4 rounded-[3rem] flex justify-between">
                 <div className="">
-                  <div className="lg:text-[48px] text-[32px]">30+</div>
+                  <div className="lg:text-[48px] text-[32px]">10+</div>
                   <div className="text-[15px]">
                     YEARS OF COMBINED <br></br>EXPERIENCE
                   </div>
                 </div>
                 <div className="">
-                  <div className="lg:text-[48px] text-[32px]">500+</div>
+                  <div className="lg:text-[48px] text-[32px]">100+</div>
                   <div className="text-[15px]">CLIENTS SERVED</div>
                 </div>
                 <div className="">
                   <div className="lg:text-[48px] text-[32px]">Millions</div>
                   <div className="text-[15px]">
-                    OF DOLLARS SAVED<br></br> FOR OUR CLIENTS
+                    OF RUPEES SAVED<br></br> FOR OUR CLIENTS
                   </div>
                 </div>
               </div>

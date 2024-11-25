@@ -14,7 +14,7 @@ function Map() {
                 </span>
               </h1>
               <p class="text-gray-600 mb-4 text-[16px]">
-                At HagEstad Law Group, PLLC, we are here to help you with all
+                At Madhan law, we are here to help you with all
                 your legal needs.
               </p>
               <p class="text-gray-600 mb-6 text-[16px]">
@@ -67,7 +67,7 @@ function Map() {
                     </svg>
                   </div>
                   <div>
-                    <div class="text-sm text-gray-600">Montana</div>
+                    <div class="text-sm text-gray-600">Chennai</div>
                     <a
                       href="tel:+1406792755"
                       class="text-[16px] text-[#434d48] hover:underline"
@@ -94,7 +94,7 @@ function Map() {
                     </svg>
                   </div>
                   <div>
-                    <div class="text-sm text-gray-600">Arizona</div>
+                    <div class="text-sm text-gray-600">Delhi</div>
                     <a
                       href="tel:+16232438444"
                       class="text-[16px] text-[#434d48] hover:underline"
