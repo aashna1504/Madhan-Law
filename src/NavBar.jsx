@@ -82,7 +82,7 @@ export default function Component() {
                 </div>
                 <div className="flex flex-col">
                   <span className="text-[12px]">Chennai</span>
-                  <span className="font-bold text-[15px]">(406) 296-6666</span>
+                  <span className="font-bold text-[15px]">9444037125</span>
                 </div>
               </div>
 
@@ -93,7 +93,7 @@ export default function Component() {
                 </div>
                 <div className="flex flex-col">
                   <span className="text-sm">Delhi</span>
-                  <span className="font-bold text-[15px]">(406) 296-6666</span>
+                  <span className="font-bold text-[15px]">8778100605</span>
                 </div>
               </div>
 
@@ -138,7 +138,7 @@ export default function Component() {
                 </div>
                 <div>
                   <span className="text-sm font-semibold">Chennai</span>
-                  <span className="text-sm ml-2">(406) 296-6666</span>
+                  <span className="text-sm ml-2">9444037125</span>
                 </div>
               </div>
 
@@ -148,7 +148,7 @@ export default function Component() {
                 </div>
                 <div>
                   <span className="text-sm font-semibold">Delhi</span>
-                  <span className="text-sm ml-2">(406) 296-6666</span>
+                  <span className="text-sm ml-2">8778100605</span>
                 </div>
               </div>
             </div>

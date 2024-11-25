@@ -35,7 +35,7 @@ function Help() {
                     href="tel:+14062966435"
                     className="text-[15px] font-semibold hover:underline"
                   >
-                    (406) 296-6435
+                    9444037125
                   </a>
                 </div>
               </div>
@@ -49,7 +49,7 @@ function Help() {
                     href="tel:+16232942934"
                     className="text-[15px] font-semibold hover:underline"
                   >
-                    (623) 294-2934
+                    8778100605
                   </a>
                 </div>
               </div>

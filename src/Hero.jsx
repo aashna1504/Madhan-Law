@@ -37,7 +37,7 @@ function Hero() {
                 </div>
                 <div className="flex flex-col ">
                   <span className="text-[12px]">Chennai</span>
-                  <span className="font-bold text-[16px]">(406) 296-6666</span>
+                  <span className="font-bold text-[16px]">9444037125</span>
                 </div>
               </div>
               <div className="flex items-center gap-4">
@@ -46,7 +46,7 @@ function Hero() {
                 </div>
                 <div className="flex flex-col ">
                   <span className="text-sm">Delhi</span>
-                  <span className="font-bold text-[16px]">(406) 296-6666</span>
+                  <span className="font-bold text-[16px]">9444037125</span>
                 </div>
               </div>
             </div>

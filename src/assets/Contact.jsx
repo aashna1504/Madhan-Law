@@ -32,7 +32,7 @@ function Contact() {
                 inquiries regarding our services or business.
               </p>
               <p className="mb-4">
-                Feel free to contact us at (406) 296-6435 in Chennai, (623)
+                Feel free to contact us at 9444037125 in Chennai, (623)
                 233-0728 in Delhi, or simply complete the form by providing
                 your information and message. We will respond promptly to your
                 query.
@@ -154,7 +154,7 @@ function Contact() {
               </div>
               <div className="flex items-center">
                 <Phone className="mr-2" />
-                <span>(406) 296-6435</span>
+                <span>9444037125</span>
               </div>
               <div className="flex items-center">
                 <MapPin className="mr-2" />

@@ -72,7 +72,7 @@ function Map() {
                       href="tel:+1406792755"
                       class="text-[16px] text-[#434d48] hover:underline"
                     >
-                      (406) 792-7555
+                      9444037125
                     </a>
                   </div>
                 </div>
@@ -99,7 +99,7 @@ function Map() {
                       href="tel:+16232438444"
                       class="text-[16px] text-[#434d48] hover:underline"
                     >
-                      (623) 243-8444
+                      8778100605
                     </a>
                   </div>
                 </div>

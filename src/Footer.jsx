@@ -56,14 +56,14 @@ function Footer() {
             </div>
             <div class="col-span-1">
               <h3 class="font-semibold mb-2">Chennai Office:</h3>
-              <p>2425 West Central Avenue, Suite 200</p>
-              <p>Missoula, MT 59801</p>
-              <p>(406) 804-6855</p>
+              <p>#1/207,1st Floor,East Coast Road</p>
+              <p>Palavakkam,Chennai-600041,TAMIL NADU,INDIA</p>
+              <p>9444037125</p>
 
               <h3 class="font-semibold mt-4 mb-2">Delhi Office:</h3>
-              <p>15331 W. Bell Rd, Ste 322</p>
-              <p>Surprise, AZ 85374</p>
-              <p>(623) 244-4587</p>
+              <p>P 97, South Extension-II</p>
+              <p>New Delhi-110049</p>
+              <p>8778100605</p>
             </div>
           </div>
           <div class="mt-8 pt-8 border-t border-gray-200 flex flex-col md:flex-row justify-between items-center">
