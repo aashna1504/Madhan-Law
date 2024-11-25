@@ -7,7 +7,7 @@ function Footer() {
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div class="grid grid-cols-1 md:grid-cols-4 gap-[2rem] text-[16px]">
             <div class="col-span-1">
-              {/* <img src="/placeholder.svg?height=50&width=100" alt="HLG Madhan law" class="mb-4"> */}
+              {/* <img src="/placeholder.svg?height=50&width=100" alt="Madhan Madhan law" class="mb-4"> */}
               <nav class="space-y-2">
                 <a href="#" class="block hover:text-blue-600">
                   Blog

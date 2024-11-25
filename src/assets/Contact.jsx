@@ -32,10 +32,9 @@ function Contact() {
                 inquiries regarding our services or business.
               </p>
               <p className="mb-4">
-                Feel free to contact us at 9444037125 in Chennai, (623)
-                233-0728 in Delhi, or simply complete the form by providing
-                your information and message. We will respond promptly to your
-                query.
+                Feel free to contact us at 9444037125 in Chennai, (623) 233-0728
+                in Delhi, or simply complete the form by providing your
+                information and message. We will respond promptly to your query.
               </p>
               <div className="aspect-w-16 aspect-h-9 mb-4">
                 <img
@@ -52,7 +51,7 @@ function Contact() {
               <div className="bg-[#ececec] rounded-lg shadow-md p-6 ">
                 <img
                   src="/placeholder.svg?height=50&width=150"
-                  alt="Hagstad Law Group Logo"
+                  alt="Madhan Law Logo"
                   width={150}
                   height={50}
                   className="mb-4"
@@ -61,7 +60,7 @@ function Contact() {
                 <form>
                   <div className="mb-4">
                     <label className="block mb-2">
-                      Which HLG office location would you like to contact? *
+                      Which Madhan office location would you like to contact? *
                     </label>
                     <div className="flex gap-4">
                       <label className="flex items-center">
@@ -144,8 +143,7 @@ function Contact() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
             <p className="text-sm text-gray-600 mb-4">
               * Communication through our website does not establish an
-              attorney-client relationship between you and Hagstad Law Group,
-              PLLC.
+              attorney-client relationship between you and Madhan Law,
             </p>
             <div className="flex flex-col md:flex-row justify-center gap-4">
               <div className="flex items-center">

@@ -10,7 +10,7 @@ function Hero() {
       <div className="bg-[#413d3e] bg-cover text-white min-h-screen font-[Mulish]">
         {/* <header className="py-4 lg:flex hidden">
           <div className="container mx-auto lg:px-[9rem] px-4 flex justify-between items-center text-[18px]">
-            <div className="text-3xl font-bold">HLG</div>
+            <div className="text-3xl font-bold">Madhan</div>
             <nav className="hidden md:flex space-x-6 text-[18px]">
               <a href="#" className="flex items-center">
                 Practice Area <ChevronDown className="ml-1 w-4 h-4" />
@@ -63,7 +63,7 @@ function Hero() {
                 </p>{" "}
                 Interests <span className="font-normal">in India</span>
                 <br />
-                <span className="font-normal">& Usa</span>
+                <span className="font-normal">& United States</span>
               </h1>
               <p className="mb-6 text-white text-[20px] mt-3">
                 Whether you're a business owner seeking legal advice, a family

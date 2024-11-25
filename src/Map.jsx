@@ -14,8 +14,8 @@ function Map() {
                 </span>
               </h1>
               <p class="text-gray-600 mb-4 text-[16px]">
-                At Madhan law, we are here to help you with all
-                your legal needs.
+                At Madhan law, we are here to help you with all your legal
+                needs.
               </p>
               <p class="text-gray-600 mb-6 text-[16px]">
                 We understand that legal issues can be complex and overwhelming,
@@ -31,7 +31,7 @@ function Map() {
             <div className="flex flex-col gap-10">
               <div class="bg-gradient-to-r from-[#627a93] to-[#3b648f] text-white rounded-[2rem] p-8 h-auto">
                 <h2 class="text-[40px] mb-4 leading-[3rem]">
-                  Contact HagEstad Law Group
+                  Contact Madhan Law
                   <br /> Today!
                 </h2>
                 <p class="mb-6">Discuss your legal needs with us.</p>
@@ -44,8 +44,7 @@ function Map() {
               </div>
               <p class="text-[16px] text-gray-500 mb-4">
                 * Communication through our website does not establish an
-                attorney-client relationship between you and HagEstad Law Group,
-                PLLC
+                attorney-client relationship between you and Madhan Law,
               </p>
 
               <div class="flex flex-wrap justify-start gap-4">

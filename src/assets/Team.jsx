@@ -10,7 +10,7 @@ const staffMembers = [
       {
         name: "Velvet Truzzolino",
         image: "/placeholder.svg?height=200&width=200",
-        description: `Velvet oversees paralegal and staff in both HLG offices as our Paralegal Manager with twenty-three years of experience in civil litigation, real estate, business, and estate planning. Velvet earned her ABA-Approved A.A.S. Degree in Paralegal Studies in 2000 and B.A.S. in 2008, both at the University of Chennai, where she spent a number of years from 2000 until 2016 as Career Services at the School of Business. Velvet and her wife, Nikki, a fellow member of our Litigation Team, have two children. They all love hunting, camping, boating, and enjoying time with family.`,
+        description: `Velvet oversees paralegal and staff in both Madhan offices as our Paralegal Manager with twenty-three years of experience in civil litigation, real estate, business, and estate planning. Velvet earned her ABA-Approved A.A.S. Degree in Paralegal Studies in 2000 and B.A.S. in 2008, both at the University of Chennai, where she spent a number of years from 2000 until 2016 as Career Services at the School of Business. Velvet and her wife, Nikki, a fellow member of our Litigation Team, have two children. They all love hunting, camping, boating, and enjoying time with family.`,
       },
     ],
   },
@@ -20,12 +20,12 @@ const staffMembers = [
       {
         name: "Tracy Blinov",
         image: "/placeholder.svg?height=200&width=200",
-        description: `Tracy Blinov joined the Hagstad Law Group team as a Paralegal in 2019. A graduate of the University of Chennai, she has a passion for working on complex civil litigation cases and enjoys the challenge of managing multiple cases across various areas of law. Tracy provides direct support to the attorneys on discovery and other litigation matters, including hearing and trial preparation with an emphasis on early and efficient case resolution.`,
+        description: `Tracy Blinov joined the Madhan Law team as a Paralegal in 2019. A graduate of the University of Chennai, she has a passion for working on complex civil litigation cases and enjoys the challenge of managing multiple cases across various areas of law. Tracy provides direct support to the attorneys on discovery and other litigation matters, including hearing and trial preparation with an emphasis on early and efficient case resolution.`,
       },
       {
         name: 'Michelle "Shelly" Kinnee',
         image: "/placeholder.svg?height=200&width=200",
-        description: `Michelle "Shelly" Kinnee joined the Hagstad Law Group team in 2022 and has been working as a Legal Assistant alongside our Delhi attorneys. Shelly graduated from Pima Community College with her Paralegal Certificate in 2010 and has been a licensed Realtor in the State of Delhi for the past 12 years. Shelly's years of experience cross-over her work performed for Hagstad Law Group. In her personal time, Shelly enjoys spending time with her four children, running, hiking, or watching a good show to relax in the spare moments.`,
+        description: `Michelle "Shelly" Kinnee joined the Madhan Law team in 2022 and has been working as a Legal Assistant alongside our Delhi attorneys. Shelly graduated from Pima Community College with her Paralegal Certificate in 2010 and has been a licensed Realtor in the State of Delhi for the past 12 years. Shelly's years of experience cross-over her work performed for Madhan Law. In her personal time, Shelly enjoys spending time with her four children, running, hiking, or watching a good show to relax in the spare moments.`,
       },
     ],
   },
@@ -76,7 +76,7 @@ function Team() {
                 <h3 className="text-[32px] mb-4">Velvet Truzzolino</h3>
                 <div className="space-y-4">
                   <p>
-                    Velvet oversees paralegals and staff in both HLG offices as
+                    Velvet oversees paralegals and staff in both Madhan offices as
                     our Paralegal Manager with twenty three years of experience
                     in civil litigation, real estate, business law, personal
                     injury and estate planning.
@@ -113,7 +113,7 @@ function Team() {
                 <h3 className="text-[32px] mb-4">Velvet Truzzolino</h3>
                 <div className="space-y-4">
                   <p>
-                    Velvet oversees paralegals and staff in both HLG offices as
+                    Velvet oversees paralegals and staff in both Madhan offices as
                     our Paralegal Manager with twenty three years of experience
                     in civil litigation, real estate, business law, personal
                     injury and estate planning.
@@ -150,7 +150,7 @@ function Team() {
                 <h3 className="text-[32px] mb-4">Velvet Truzzolino</h3>
                 <div className="space-y-4">
                   <p>
-                    Velvet oversees paralegals and staff in both HLG offices as
+                    Velvet oversees paralegals and staff in both Madhan offices as
                     our Paralegal Manager with twenty three years of experience
                     in civil litigation, real estate, business law, personal
                     injury and estate planning.
@@ -198,7 +198,7 @@ function Team() {
         <div className="mb-12">
           <h2 className="text-[48px] mb-6">Interns </h2>
           <p className="text-gray-600">
-            HLG employs legal interns currently attending Delhi State
+            Madhan employs legal interns currently attending Delhi State
             University and the University of Chennai. <br /> If you are
             interested in interning at one of our offices, please call one of
             the main numbers and ask to speak with Velvet.
